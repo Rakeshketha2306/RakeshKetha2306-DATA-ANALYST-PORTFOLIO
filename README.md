@@ -1,4 +1,4 @@
-DATA ANALYTICS POTFOLIO
+DATA ANALYTICS PORTFOLIO
 
 Hello! I’m an aspiring data analyst with a strong interest in turning data into actionable insights that support smarter decision-making. I’ve been developing my skills across tools like Python, R, SQL, Excel, Power BI, and Tableau, and this portfolio showcases the progress I’ve made through hands-on projects and continuous learning.
 
